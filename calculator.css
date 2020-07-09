@@ -1,0 +1,36 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    border:lightslategrey solid 1px;
+    margin-top: 70px;
+    margin-left: 500px;
+}
+#screen{
+    width: 80%;
+    height: 30px;
+    background-color: whitesmoke;
+    border: none;
+    margin-top: 20px;
+    margin-left: 49px;
+    pointer-events: none;
+}
+.row{
+    width: 80%;
+    height: 40px;
+    padding: 20px;
+    margin-left: 22px;
+}
+.btn{
+    width: 66px;
+    height: 52px;
+    margin: 5px;
+    background-image: linear-gradient(to right top, #358fa7, #009397, #0b957a, #459355, #708d2e);
+}
+.clrbtn{
+    width: 66px;
+    height: 52px;
+    margin-top: 10px;
+    margin-left: 289px;
+    background-image: linear-gradient(to right top, #358fa7, #009397, #0b957a, #459355, #708d2e);
+}
